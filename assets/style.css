@@ -158,9 +158,17 @@ button {
 	float: left;
 	margin-bottom: -50px;
 	margin-right: 4%;
-
-	
 }
+
+.portfolioitemsright {
+	padding-left: 0px;
+	
+	float: right;
+	margin-bottom: -50px;
+	margin-right: 0%;
+}
+
+
 
 .imagelabel {
 	color: white;
